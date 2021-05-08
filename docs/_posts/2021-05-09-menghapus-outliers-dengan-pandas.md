@@ -1,7 +1,7 @@
 ---
 title: Menghapus Outliers dengan pandas 
 tags: [Python, Pandas, EDA]
-style: border
+style: fill
 color: primary
 description: cara paling mudah buat hapus dan mendeteksi outlier.
 ---
